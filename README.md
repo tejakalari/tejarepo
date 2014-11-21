@@ -1,4 +1,4 @@
 tejarepo
 ========
 
-this is tejarepository
+Hi, this is tejarepository.
